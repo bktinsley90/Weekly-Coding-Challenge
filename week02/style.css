@@ -1,1 +1,15 @@
-/* This is just a example css template */
+.header {
+    background-color: magenta;
+    display: flex;
+    justify-content: center;
+    width: 500px;
+    margin: auto;
+    margin-top: 300px;
+}
+
+h1 {
+display: flex;
+justify-content: center;
+text-decoration: underline;
+text-transform: uppercase;
+}
